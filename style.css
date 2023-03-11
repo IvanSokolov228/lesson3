@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+}
+h1{
+    color:aliceblue;
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+ul{
+    color: aliceblue;
+}
+a{
+    color:red;
+}
+img{
+    width: 500px;
+    height: 600px;
+    display: block;
+    margin: 0 auto;
+}
